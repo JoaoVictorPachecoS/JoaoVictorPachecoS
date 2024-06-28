@@ -1,5 +1,5 @@
-## Ola, Seja bem-vindo ao meu perfil! 👋
-# Sou apenas um estudante aprendendo programação.
+# Ola, Seja bem-vindo ao meu perfil! 👋
+## Sou apenas um estudante aprendendo programação.
 
 Apredendo atualmente 
 
